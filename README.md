@@ -47,7 +47,7 @@ Or using the buildscript:
 ```kotlin
 // root/build.gradle[.kts]
 buildscript {
-  classpath("net.mbonnin:one-height:0.1")
+  classpath("gradle.plugin.net.mbonnin:one-eight:0.1")
 }
 
 apply(plugin = "net.mbonnin.one.height")
