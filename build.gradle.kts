@@ -1,7 +1,7 @@
 plugins {
   kotlin("jvm").version("1.4.10")
   id("java-gradle-plugin")
-  id("com.gradle.plugin-publish").version("0.10.1")
+  id("com.gradle.plugin-publish").version("0.12.0")
 }
 
 repositories {
@@ -28,7 +28,7 @@ gradlePlugin {
       id = "net.mbonnin.one.eight"
       displayName = "1.8 for everyone."
       description = "A simple Gradle plugin to make all your Android/Kotlin things target JDK 1.8"
-      implementationClass = "net.mbonnin.one.eight.Plugin"
+      implementationClass = "net.mbonnin.one.eight.OneEightPlugin"
     }
   }
 }

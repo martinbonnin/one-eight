@@ -1,6 +1,6 @@
-## one.eight
+## Target Java 8 in all your projects
 
-A very simple Gradle plugin to avoid the `Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6` error.
+A very simple Gradle plugin to avoid the `Cannot inline bytecode built with JVM target 1.8 into bytecode that is being built with JVM target 1.6` [error](https://stackoverflow.com/questions/48988778/cannot-inline-bytecode-built-with-jvm-target-1-8-into-bytecode-that-is-being-bui).
 
 The plugin will make your Java/Kotlin/Android task target Java 8:
 
