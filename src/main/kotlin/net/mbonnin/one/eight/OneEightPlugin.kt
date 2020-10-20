@@ -1,4 +1,4 @@
-package net.mbonnin.one.height
+package net.mbonnin.one.eight
 
 import org.gradle.api.JavaVersion
 import org.gradle.api.Plugin
