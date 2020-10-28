@@ -38,7 +38,7 @@ Add to your root project:
 ```kotlin
 // root/build.gradle[.kts]
 plugins {
-  id("net.mbonnin.one.height").version("0.1")
+  id("net.mbonnin.one.eight").version("0.1")
 }
 ```
 
@@ -50,5 +50,5 @@ buildscript {
   classpath("gradle.plugin.net.mbonnin:one-eight:0.1")
 }
 
-apply(plugin = "net.mbonnin.one.height")
+apply(plugin = "net.mbonnin.one.eight")
 ```
