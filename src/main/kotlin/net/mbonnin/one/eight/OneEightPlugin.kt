@@ -19,6 +19,9 @@ class OneEightPlugin : Plugin<Project> {
         withId("org.jetbrains.kotlin.jvm") {
           project.configureKotlin()
         }
+        withId("org.jetbrains.kotlin.android") {
+          project.configureKotlin()
+        }
         withId("org.jetbrains.kotlin.multiplatform") {
           project.configureKotlin()
         }
