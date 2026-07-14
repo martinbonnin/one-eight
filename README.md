@@ -1,3 +1,9 @@
+# This project is archived
+
+For a more flexible way to manage your JVM target, look at [tapmoc](https://gradleup.com/tapmoc/)
+
+---
+
 [![Plugin portal](https://img.shields.io/maven-metadata/v?label=plugin%20portal&metadataUrl=https%3A%2F%2Fplugins.gradle.org%2Fm2%2Fnet%2Fmbonnin%2Fone%2Feight%2Fnet.mbonnin.one.eight.gradle.plugin%2Fmaven-metadata.xml)](https://plugins.gradle.org/plugin/net.mbonnin.one.eight)
 
 
